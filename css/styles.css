@@ -16,6 +16,15 @@
 }
 
 .fade-clickable {
-    cursor: pointer;
-    color: red;
+  cursor: pointer;
+  color: red;
+}
+
+.slide-in {
+  display: none;
+}
+
+.slide-clickable {
+  cursor: pointer;
+  color: purple;
 }
