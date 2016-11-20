@@ -1,0 +1,21 @@
+#showing {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+.fading-in {
+  display: none;
+}
+
+.fade-clickable {
+    cursor: pointer;
+    color: red;
+}
